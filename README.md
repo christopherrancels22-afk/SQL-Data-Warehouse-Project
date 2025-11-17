@@ -1,6 +1,6 @@
 # SQL-Data-Warehouse-Project
 
-Welcome to the **Data Warehosu and Analytics Project** repository !!
+Welcome to the **Data Warehousu and Analytics Project** repository !!
 
 
 ---
